@@ -1,0 +1,13 @@
+C:\Repogit\tp10\tpn10-AgustinF98\TP10_1\bin\Debug\netcoreapp3.1\TP10_1.exe
+C:\Repogit\tp10\tpn10-AgustinF98\TP10_1\bin\Debug\netcoreapp3.1\TP10_1.deps.json
+C:\Repogit\tp10\tpn10-AgustinF98\TP10_1\bin\Debug\netcoreapp3.1\TP10_1.runtimeconfig.json
+C:\Repogit\tp10\tpn10-AgustinF98\TP10_1\bin\Debug\netcoreapp3.1\TP10_1.runtimeconfig.dev.json
+C:\Repogit\tp10\tpn10-AgustinF98\TP10_1\bin\Debug\netcoreapp3.1\TP10_1.dll
+C:\Repogit\tp10\tpn10-AgustinF98\TP10_1\bin\Debug\netcoreapp3.1\TP10_1.pdb
+C:\Repogit\tp10\tpn10-AgustinF98\TP10_1\obj\Debug\netcoreapp3.1\TP10_1.csprojAssemblyReference.cache
+C:\Repogit\tp10\tpn10-AgustinF98\TP10_1\obj\Debug\netcoreapp3.1\TP10_1.AssemblyInfoInputs.cache
+C:\Repogit\tp10\tpn10-AgustinF98\TP10_1\obj\Debug\netcoreapp3.1\TP10_1.AssemblyInfo.cs
+C:\Repogit\tp10\tpn10-AgustinF98\TP10_1\obj\Debug\netcoreapp3.1\TP10_1.csproj.CoreCompileInputs.cache
+C:\Repogit\tp10\tpn10-AgustinF98\TP10_1\obj\Debug\netcoreapp3.1\TP10_1.dll
+C:\Repogit\tp10\tpn10-AgustinF98\TP10_1\obj\Debug\netcoreapp3.1\TP10_1.pdb
+C:\Repogit\tp10\tpn10-AgustinF98\TP10_1\obj\Debug\netcoreapp3.1\TP10_1.genruntimeconfig.cache
